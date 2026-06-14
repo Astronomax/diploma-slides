@@ -1,0 +1,13 @@
+# Typst cache
+.typst/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+
+thesis/
+images/
